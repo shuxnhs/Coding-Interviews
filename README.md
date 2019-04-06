@@ -2,8 +2,10 @@
 剑指offer（C++与Java版本解题思路）
 
 # C++
- -|Title|code
+ 类型|Title|code
 :-:|:-:|:-:
+数组|数组中重复的数字|[code](./cpp/3.cpp)
+
 
 # Java
 Title|code
