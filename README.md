@@ -5,6 +5,7 @@
  类型|Title|code
 :-:|:-:|:-:
 数组|数组中重复的数字|[code](./cpp/3.cpp)
+数组|构造乘积数组|[code](./cpp/4.cpp)
 
 
 # Java
